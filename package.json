@@ -1,0 +1,9 @@
+{
+  "name": "gh-action-filter-files",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "actions-toolkit": "^1.2.1",
+    "micromatch": "3.1.10"
+  }
+}
